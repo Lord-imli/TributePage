@@ -1,0 +1,22 @@
+#main {
+  text-align: center;
+  font-family: sans-serif;
+  background: rgba(50, 50, 50, 0.1);  
+} 
+#image {
+  width: 800px;
+ }
+#title {
+   font-size: 40px;
+}
+#img-caption {
+  font-size: 19px;
+}
+#tribute-info {
+  font-size: 20px;
+  text-align: start;
+    
+}
+
+
+
